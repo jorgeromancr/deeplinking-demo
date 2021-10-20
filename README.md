@@ -14,11 +14,12 @@ When a clicked link or programmatic request invokes a web URI intent, the Androi
 ### Form redirection
 [Registration form](https://forms.gle/QLKHJUne9JfS832Z9/)
 
+### Form redirection with parameter
+[Registration form](https://forms.gle/QLKHJUne9JfS832Z9/green)
+
 ### AppLink URL
-[Registration form](https://forms.gle/QLKHJUne9JfS832Z9/)
-<a href="index.html">Index</a>
-<a href="index2.html">Index 2</a>
-<a href="README2.md">Readme 2</a>
+<a href="applink.html">App link redirection</a>
+
 
 ![Image](https://utek.skule.ca/imgs/konrad-logo-full.jpg)
 
