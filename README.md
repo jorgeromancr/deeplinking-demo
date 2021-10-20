@@ -1,4 +1,4 @@
-## Android Dep-linking demo
+## Android Deep-linking demo
 
 ```markdown
 When a clicked link or programmatic request invokes a web URI intent, the Android system tries each of the following actions, in sequential order, until the request succeeds:
