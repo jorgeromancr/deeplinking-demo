@@ -14,11 +14,11 @@ When a clicked link or programmatic request invokes a web URI intent, the Androi
 ### Form redirection
 [Registration form](https://forms.gle/QLKHJUne9JfS832Z9/)
 
-### Form redirection with parameter (Green color)
+### Form redirection (Green color)
 [Registration form](https://forms.gle/QLKHJUne9JfS832Z9?green)
 
-### Form redirection with parameter (Blue color)
-[Registration form](https://forms.gle/QLKHJUne9JfS832Z9?green)
+### Form redirection (Blue color)
+[Registration form](https://forms.gle/QLKHJUne9JfS832Z9?blue)
 
 
 ![Image](https://utek.skule.ca/imgs/konrad-logo-full.jpg)
