@@ -20,6 +20,9 @@ When a clicked link or programmatic request invokes a web URI intent, the Androi
 ### Form redirection (Blue color)
 [Registration form](https://forms.gle/QLKHJUne9JfS832Z9?blue)
 
+### Form redirection (Custom schema)
+[Registration form](konradapp://forms.gle/QLKHJUne9JfS832Z9?blue)
+
 
 ![Image](https://utek.skule.ca/imgs/konrad-logo-full.jpg)
 
