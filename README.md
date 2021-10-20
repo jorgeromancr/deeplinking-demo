@@ -16,6 +16,8 @@ When a clicked link or programmatic request invokes a web URI intent, the Androi
 
 ### AppLink URL
 [Registration form](https://forms.gle/QLKHJUne9JfS832Z9/)
+<a href="index.html">Index</a>
+<a href="index2.html">Index 2</a>
 
 ![Image](https://utek.skule.ca/imgs/konrad-logo-full.jpg)
 
