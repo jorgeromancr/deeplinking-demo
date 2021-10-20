@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jorgeromancr/deeplinking-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Android Dep-linking demo
 
 ```markdown
-Syntax highlighted code block
+When a clicked link or programmatic request invokes a web URI intent, the Android system tries each of the following actions, in sequential order, until the request succeeds:
 
-# Header 1
-## Header 2
-### Header 3
+1. Open the user's preferred app that can handle the URI, if one is designated.
+2. Open the only available app that can handle the URI.
+3. Allow the user to select an app from a dialog.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Here some examples:
 
-### Jekyll Themes
+### Form redirection
+[Registration form](https://forms.gle/QLKHJUne9JfS832Z9/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jorgeromancr/deeplinking-demo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### AppLink URL
+[Registration form](https://forms.gle/QLKHJUne9JfS832Z9/)
 
-### Support or Contact
+![Image](https://utek.skule.ca/imgs/konrad-logo-full.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+For more information see [Android documentation](https://developer.android.com/training/app-links/deep-linking).
